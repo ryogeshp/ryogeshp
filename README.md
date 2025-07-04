@@ -41,7 +41,7 @@
   
 - **Bachelor of Science in Information Technology (BSc IT)**  
   Sree Narayana Guru College  
-  *Graduated: 2023*
+  *Graduated: 2024*
 
 ## 🚀 Recent Projects
 
@@ -60,7 +60,7 @@
 ## 📜 Certifications
 - AWS Certified Solutions Architect (In Progress)
 - Certified Kubernetes Administrator (Planned)
-- Terraform Associate (2024 Target)
+- Terraform Associate (2025 Target)
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
